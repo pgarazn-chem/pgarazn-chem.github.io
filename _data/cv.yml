@@ -1,85 +1,85 @@
 cv:
-  [cite_start]name: "Pablo García Aznar [cite: 1]"
-  [cite_start]label: "PhD Student Sustainable Chemistry [cite: 2]"
-  [cite_start]email: "pgarazn@itq.upv.es [cite: 5]"
-  [cite_start]location: "ITQ, UPV-CSIC, Valencia, Spain [cite: 3, 29]"
+  name: "Pablo García Aznar"
+  label: "PhD Student Sustainable Chemistry"
+  email: "pgarazn@itq.upv.es"
+  location: "ITQ, UPV-CSIC, Valencia, Spain"
   image: "" # Pon aquí la ruta de tu foto si tienes una, ej: "assets/img/tu_foto.jpg"
-  [cite_start]summary: "PhD Student in Sustainable Chemistry specializing in the computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications. [cite: 2, 11, 12]"
+  summary: "PhD Student in Sustainable Chemistry specializing in the computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications."
 
   social_networks:
     - network: GitHub
-      [cite_start]username: "pgarazn-chem [cite: 6]"
+      username: "pgarazn-chem"
     - network: ORCID
-      [cite_start]username: "0000-0003-0586-0037 [cite: 5]"
+      username: "0000-0003-0586-0037"
 
   address:
-    [cite_start]street: "Av. dels Tarongers s/n [cite: 3]"
-    [cite_start]city: "València [cite: 3]"
-    [cite_start]region: "Valencia [cite: 3]"
-    [cite_start]postalCode: "46022 [cite: 3]"
-    [cite_start]countryCode: "ES [cite: 3]"
+    street: "Av. dels Tarongers s/n"
+    city: "València"
+    region: "Valencia"
+    postalCode: "46022"
+    countryCode: "ES"
 
   sections:
     Education:
-      - [cite_start]institution: "Universitat Politècnica de València [cite: 7]"
-        [cite_start]location: "València, Spain [cite: 10]"
+      - institution: "Universitat Politècnica de València"
+        location: "València, Spain"
         url: "https://www.upv.es/"
-        [cite_start]area: "Sustainable Chemistry [cite: 8]"
-        [cite_start]studyType: "PhD [cite: 8]"
-        [cite_start]start_date: "2022-12 [cite: 10]"
-        [cite_start]end_date: "Present [cite: 10]"
+        area: "Sustainable Chemistry"
+        studyType: "PhD"
+        start_date: "2022-12"
+        end_date: "Present"
         score: ""
         courses: ""
         highlights:
-          - [cite_start]"Advisor: Dr. Germán Sastre [cite: 9]"
-          - [cite_start]"PhD Thesis: Computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications. [cite: 11, 12]"
+          - "Advisor: Dr. Germán Sastre"
+          - "PhD Thesis: Computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications."
 
-      - [cite_start]institution: "Universitat de València [cite: 13]"
-        [cite_start]location: "Burjassot, València, Spain [cite: 16]"
-        [cite_start]area: "Organic Chemistry [cite: 14]"
-        [cite_start]studyType: "MSc [cite: 14]"
-        [cite_start]start_date: "2021-09 [cite: 17]"
-        [cite_start]end_date: "2022-07 [cite: 17]"
+      - institution: "Universitat de València"
+        location: "Burjassot, València, Spain"
+        area: "Organic Chemistry"
+        studyType: "MSc"
+        start_date: "2021-09"
+        end_date: "2022-07"
         highlights:
-          - [cite_start]"Advisor: Dr. Jorge Escorihuela [cite: 15]"
-          - [cite_start]"Master's Thesis: Computational study on the inverse electron-demand Diels-Alder reaction of norbornenes with 1,2,4,5-tetrazines. [cite: 18]"
+          - "Advisor: Dr. Jorge Escorihuela"
+          - "Master's Thesis: Computational study on the inverse electron-demand Diels-Alder reaction of norbornenes with 1,2,4,5-tetrazines."
 
-      - [cite_start]institution: "Universitat de València [cite: 19]"
-        [cite_start]location: "Burjassot, València, Spain [cite: 22]"
-        [cite_start]area: "Chemistry [cite: 20]"
-        [cite_start]studyType: "BSc [cite: 20]"
-        [cite_start]start_date: "2017-09 [cite: 24]"
-        [cite_start]end_date: "2021-07 [cite: 24]"
+      - institution: "Universitat de València"
+        location: "Burjassot, València, Spain"
+        area: "Chemistry"
+        studyType: "BSc"
+        start_date: "2017-09"
+        end_date: "2021-07"
         highlights:
-          - [cite_start]"Undergrad research advisor: Dr. Jorge Escorihuela [cite: 21]"
-          - [cite_start]"Bachelor's thesis: Synthesis of chiral homopropargylic amides for intermolecular Pauson-Khand reactions. [cite: 23]"
+          - "Undergrad research advisor: Dr. Jorge Escorihuela"
+          - "Bachelor's thesis: Synthesis of chiral homopropargylic amides for intermolecular Pauson-Khand reactions."
 
     Experience:
-      - [cite_start]company: "Instituto de Tecnología Química (UPV-CSIC), Universitat Politècnica de València [cite: 29]"
-        [cite_start]position: "PhD Research contract, Theoretical Chemistry Department [cite: 29]"
-        [cite_start]location: "Valencia, Spain [cite: 29]"
-        [cite_start]start_date: "2022-12 [cite: 26]"
-        [cite_start]end_date: "2026-08 [cite: 26]"
-        [cite_start]summary: "Lead computational researcher in co-authored experimental works. [cite: 46]"
+      - company: "Instituto de Tecnología Química (UPV-CSIC), Universitat Politècnica de València"
+        position: "PhD Research contract, Theoretical Chemistry Department"
+        location: "Valencia, Spain"
+        start_date: "2022-12"
+        end_date: "2026-08"
+        summary: "Lead computational researcher in co-authored experimental works."
         highlights:
-          - [cite_start]"Responsible for original model development, reaction mechanism elucidation, and simulation frameworks. [cite: 46]"
-          - [cite_start]"Collaborated with experimentalists to accurately define reaction active centres. [cite: 36]"
+          - "Responsible for original model development, reaction mechanism elucidation, and simulation frameworks."
+          - "Collaborated with experimentalists to accurately define reaction active centres."
 
-      - [cite_start]company: "University of Valencia [cite: 30]"
-        [cite_start]position: "Laboratory Intern, Organic Chemistry department [cite: 30]"
-        [cite_start]location: "Burjassot, Valencia, Spain [cite: 30]"
-        [cite_start]start_date: "2021-11 [cite: 27]"
-        [cite_start]end_date: "2022-07 [cite: 27]"
+      - company: "University of Valencia"
+        position: "Laboratory Intern, Organic Chemistry department"
+        location: "Burjassot, Valencia, Spain"
+        start_date: "2021-11"
+        end_date: "2022-07"
         highlights:
-          - [cite_start]"Wet Lab Experience: Organic synthesis, standard laboratory operations, and structural characterization. [cite: 40]"
+          - "Wet Lab Experience: Organic synthesis, standard laboratory operations, and structural characterization."
 
     Volunteer:
-      - [cite_start]company: "CiènciaLAB [cite: 110]"
-        [cite_start]position: "Scientific Outreach Volunteer [cite: 110]"
+      - company: "CiènciaLAB"
+        position: "Scientific Outreach Volunteer"
         location: "Spain"
-        [cite_start]start_date: "2025-03 [cite: 110]"
-        [cite_start]end_date: "2025-05 [cite: 110]"
-        [cite_start]summary: "Scientific outreach workshop. [cite: 110]"
+        start_date: "2025-03"
+        end_date: "2025-05"
+        summary: "Scientific outreach workshop."
 
     # Awards:
     #   - title: Nombre del Premio
@@ -91,50 +91,50 @@ cv:
     #     summary: Breve descripción del premio.
 
     Publications:
-      - [cite_start]title: "Mechanistic Insights in Acceptorless Dehydrogenation of N-Heterocycles Using Graphenes as Carbocatalysts. [cite: 48, 49]"
+      - title: "Mechanistic Insights in Acceptorless Dehydrogenation of N-Heterocycles Using Graphenes as Carbocatalysts."
         authors:
-          - [cite_start]"Andrés Mollar-Cuni, Pablo García-Aznar, Santiago Martín, German Sastre, Hermenegildo García, Jose A. Mata. [cite: 48]"
-        publisher: "ACS Appl. Mater. Interfaces [cite: 49, 50]"
-        [cite_start]releaseDate: "2025 [cite: 50]"
-        [cite_start]url: "https://doi.org/10.1021/acsami.5c11895 [cite: 50]"
-        [cite_start]summary: "Lead computational researcher. [cite: 47]"
+          - "Andrés Mollar-Cuni, Pablo García-Aznar, Santiago Martín, German Sastre, Hermenegildo García, Jose A. Mata."
+        publisher: "ACS Appl. Mater. Interfaces"
+        releaseDate: "2025"
+        url: "https://doi.org/10.1021/acsami.5c11895"
+        summary: "Lead computational researcher."
 
-      - [cite_start]title: "Ti3C2 MXene as heterogeneous catalyst for carbodiimides guanylation with over 10^2 h^-1 turnover frequencies. [cite: 52]"
+      - title: "Ti3C2 MXene as heterogeneous catalyst for carbodiimides guanylation with over 10^2 h^-1 turnover frequencies."
         authors:
-          - [cite_start]"Aicha Anouar, Elena Romero Salicio, Pablo García-Aznar, Abdessamad Grirrane, Amparo Forneli, German Sastre, Hermenegildo Garcia, Ana Primo. [cite: 51]"
-        publisher: "J. Catal. [cite: 53]"
-        [cite_start]releaseDate: "2025 [cite: 53]"
-        [cite_start]url: "https://doi.org/10.1016/j.jcat.2025.116328 [cite: 53]"
-        [cite_start]summary: "Lead computational researcher. [cite: 47]"
+          - "Aicha Anouar, Elena Romero Salicio, Pablo García-Aznar, Abdessamad Grirrane, Amparo Forneli, German Sastre, Hermenegildo Garcia, Ana Primo."
+        publisher: "J. Catal."
+        releaseDate: "2025"
+        url: "https://doi.org/10.1016/j.jcat.2025.116328"
+        summary: "Lead computational researcher."
 
     Skills:
-      - [cite_start]name: "Computational Chemistry [cite: 31]"
+      - name: "Computational Chemistry"
         level: "Advanced"
         icon: "fa-solid fa-microchip"
-        [cite_start]keywords: "DFT codes (Gaussian 09/16, ORCA, CASTEP), orbital analysis (Multiwfn), HPC systems, Machine-Learning Potentials (MACE-MATPES-PBE-0). [cite: 31, 33, 38]"
+        keywords: "DFT codes (Gaussian 09/16, ORCA, CASTEP), orbital analysis (Multiwfn), HPC systems, Machine-Learning Potentials (MACE-MATPES-PBE-0)."
 
-      - [cite_start]name: "IT & Programming [cite: 34, 37]"
+      - name: "IT & Programming"
         level: "Intermediate"
         icon: "fa-solid fa-code"
-        [cite_start]keywords: "Linux System Administration, Basic Python Programming, ASE, custom NEB/AutoNEB Transition State search tool. [cite: 34, 37]"
+        keywords: "Linux System Administration, Basic Python Programming, ASE, custom NEB/AutoNEB Transition State search tool."
 
-      - [cite_start]name: "Laboratory Skills [cite: 40]"
+      - name: "Laboratory Skills"
         level: "Basic"
         icon: "fa-solid fa-flask"
-        [cite_start]keywords: "Wet Lab Experience, Organic synthesis, structural characterization (13C NMR). [cite: 40]"
+        keywords: "Wet Lab Experience, Organic synthesis, structural characterization (13C NMR)."
 
     Languages:
-      - [cite_start]name: "Spanish [cite: 122]"
-        [cite_start]summary: "Native [cite: 122]"
+      - name: "Spanish"
+        summary: "Native"
 
-      - [cite_start]name: "Valencian/Catalan [cite: 122]"
-        [cite_start]summary: "C1 [cite: 122]"
+      - name: "Valencian/Catalan"
+        summary: "C1"
 
-      - [cite_start]name: "English [cite: 122]"
-        [cite_start]summary: "C1 [cite: 122]"
+      - name: "English"
+        summary: "C1"
         
-      - [cite_start]name: "French [cite: 122]"
-        [cite_start]summary: "A2 [cite: 122]"
+      - name: "French"
+        summary: "A2"
 
     # Interests:
     #   - name: Área de interés
@@ -142,14 +142,14 @@ cv:
     #     keywords: "Palabra clave 1, Palabra clave 2"
 
     Certificates:
-      - [cite_start]name: "CCP5 Summer School 2025 [cite: 116]"
-        [cite_start]date: "2025-07 [cite: 116]"
-        [cite_start]issuer: "Newcastle University [cite: 116]"
+      - name: "CCP5 Summer School 2025"
+        date: "2025-07"
+        issuer: "Newcastle University"
         icon: "fa-solid fa-graduation-cap"
 
-      - [cite_start]name: "Data Analysis using AI tools [cite: 115]"
-        [cite_start]date: "2024-12 [cite: 115]"
-        [cite_start]issuer: "Universitat Politècnica de València [cite: 115]"
+      - name: "Data Analysis using AI tools"
+        date: "2024-12"
+        issuer: "Universitat Politècnica de València"
         icon: "fa-solid fa-chart-line"
 
     # Projects:
@@ -161,7 +161,11 @@ cv:
     #     start_date: 2023-01-01
     #     end_date: 2023-12-31
 
-    # References:
-    #   - name: Profesor o Contacto
-    #     icon: fa-solid fa-envelope
-    #     reference: "Un texto de recomendación breve iría aquí."
+    References:
+      - name: "Dr. Germán Sastre"
+        icon: "fa-solid fa-envelope"
+        reference: "PhD Thesis Advisor. Instituto de Tecnología Química (UPV-CSIC)."
+
+      - name: "Dr. Jorge Escorihuela"
+        icon: "fa-solid fa-envelope"
+        reference: "Master's and Bachelor's Thesis Advisor. Organic Chemistry Department, Universitat de València."
