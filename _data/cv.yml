@@ -1,189 +1,167 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  [cite_start]name: "Pablo García Aznar [cite: 1]"
+  [cite_start]label: "PhD Student Sustainable Chemistry [cite: 2]"
+  [cite_start]email: "pgarazn@itq.upv.es [cite: 5]"
+  [cite_start]location: "ITQ, UPV-CSIC, Valencia, Spain [cite: 3, 29]"
+  image: "" # Pon aquí la ruta de tu foto si tienes una, ej: "assets/img/tu_foto.jpg"
+  [cite_start]summary: "PhD Student in Sustainable Chemistry specializing in the computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications. [cite: 2, 11, 12]"
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      [cite_start]username: "pgarazn-chem [cite: 6]"
+    - network: ORCID
+      [cite_start]username: "0000-0003-0586-0037 [cite: 5]"
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    [cite_start]street: "Av. dels Tarongers s/n [cite: 3]"
+    [cite_start]city: "València [cite: 3]"
+    [cite_start]region: "Valencia [cite: 3]"
+    [cite_start]postalCode: "46022 [cite: 3]"
+    [cite_start]countryCode: "ES [cite: 3]"
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - [cite_start]institution: "Universitat Politècnica de València [cite: 7]"
+        [cite_start]location: "València, Spain [cite: 10]"
+        url: "https://www.upv.es/"
+        [cite_start]area: "Sustainable Chemistry [cite: 8]"
+        [cite_start]studyType: "PhD [cite: 8]"
+        [cite_start]start_date: "2022-12 [cite: 10]"
+        [cite_start]end_date: "Present [cite: 10]"
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - [cite_start]"Advisor: Dr. Germán Sastre [cite: 9]"
+          - [cite_start]"PhD Thesis: Computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications. [cite: 11, 12]"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - [cite_start]institution: "Universitat de València [cite: 13]"
+        [cite_start]location: "Burjassot, València, Spain [cite: 16]"
+        [cite_start]area: "Organic Chemistry [cite: 14]"
+        [cite_start]studyType: "MSc [cite: 14]"
+        [cite_start]start_date: "2021-09 [cite: 17]"
+        [cite_start]end_date: "2022-07 [cite: 17]"
         highlights:
-          - Description 1.
-          - Description 2.
+          - [cite_start]"Advisor: Dr. Jorge Escorihuela [cite: 15]"
+          - [cite_start]"Master's Thesis: Computational study on the inverse electron-demand Diels-Alder reaction of norbornenes with 1,2,4,5-tetrazines. [cite: 18]"
+
+      - [cite_start]institution: "Universitat de València [cite: 19]"
+        [cite_start]location: "Burjassot, València, Spain [cite: 22]"
+        [cite_start]area: "Chemistry [cite: 20]"
+        [cite_start]studyType: "BSc [cite: 20]"
+        [cite_start]start_date: "2017-09 [cite: 24]"
+        [cite_start]end_date: "2021-07 [cite: 24]"
+        highlights:
+          - [cite_start]"Undergrad research advisor: Dr. Jorge Escorihuela [cite: 21]"
+          - [cite_start]"Bachelor's thesis: Synthesis of chiral homopropargylic amides for intermolecular Pauson-Khand reactions. [cite: 23]"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - [cite_start]company: "Instituto de Tecnología Química (UPV-CSIC), Universitat Politècnica de València [cite: 29]"
+        [cite_start]position: "PhD Research contract, Theoretical Chemistry Department [cite: 29]"
+        [cite_start]location: "Valencia, Spain [cite: 29]"
+        [cite_start]start_date: "2022-12 [cite: 26]"
+        [cite_start]end_date: "2026-08 [cite: 26]"
+        [cite_start]summary: "Lead computational researcher in co-authored experimental works. [cite: 46]"
         highlights:
-          - Relativity
-          - Description 2.
+          - [cite_start]"Responsible for original model development, reaction mechanism elucidation, and simulation frameworks. [cite: 46]"
+          - [cite_start]"Collaborated with experimentalists to accurately define reaction active centres. [cite: 36]"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - [cite_start]company: "University of Valencia [cite: 30]"
+        [cite_start]position: "Laboratory Intern, Organic Chemistry department [cite: 30]"
+        [cite_start]location: "Burjassot, Valencia, Spain [cite: 30]"
+        [cite_start]start_date: "2021-11 [cite: 27]"
+        [cite_start]end_date: "2022-07 [cite: 27]"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+          - [cite_start]"Wet Lab Experience: Organic synthesis, standard laboratory operations, and structural characterization. [cite: 40]"
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - [cite_start]company: "CiènciaLAB [cite: 110]"
+        [cite_start]position: "Scientific Outreach Volunteer [cite: 110]"
+        location: "Spain"
+        [cite_start]start_date: "2025-03 [cite: 110]"
+        [cite_start]end_date: "2025-05 [cite: 110]"
+        [cite_start]summary: "Scientific outreach workshop. [cite: 110]"
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    # Awards:
+    #   - title: Nombre del Premio
+    #     authors:
+    #       - "Institución u Organización"
+    #     date: 2026-01-01
+    #     awarder: Quien otorga el premio
+    #     url: https://link-al-premio.com
+    #     summary: Breve descripción del premio.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - [cite_start]title: "Mechanistic Insights in Acceptorless Dehydrogenation of N-Heterocycles Using Graphenes as Carbocatalysts. [cite: 48, 49]"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - [cite_start]"Andrés Mollar-Cuni, Pablo García-Aznar, Santiago Martín, German Sastre, Hermenegildo García, Jose A. Mata. [cite: 48]"
+        publisher: "ACS Appl. Mater. Interfaces [cite: 49, 50]"
+        [cite_start]releaseDate: "2025 [cite: 50]"
+        [cite_start]url: "https://doi.org/10.1021/acsami.5c11895 [cite: 50]"
+        [cite_start]summary: "Lead computational researcher. [cite: 47]"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - [cite_start]title: "Ti3C2 MXene as heterogeneous catalyst for carbodiimides guanylation with over 10^2 h^-1 turnover frequencies. [cite: 52]"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - [cite_start]"Aicha Anouar, Elena Romero Salicio, Pablo García-Aznar, Abdessamad Grirrane, Amparo Forneli, German Sastre, Hermenegildo Garcia, Ana Primo. [cite: 51]"
+        publisher: "J. Catal. [cite: 53]"
+        [cite_start]releaseDate: "2025 [cite: 53]"
+        [cite_start]url: "https://doi.org/10.1016/j.jcat.2025.116328 [cite: 53]"
+        [cite_start]summary: "Lead computational researcher. [cite: 47]"
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - [cite_start]name: "Computational Chemistry [cite: 31]"
+        level: "Advanced"
+        icon: "fa-solid fa-microchip"
+        [cite_start]keywords: "DFT codes (Gaussian 09/16, ORCA, CASTEP), orbital analysis (Multiwfn), HPC systems, Machine-Learning Potentials (MACE-MATPES-PBE-0). [cite: 31, 33, 38]"
+
+      - [cite_start]name: "IT & Programming [cite: 34, 37]"
+        level: "Intermediate"
+        icon: "fa-solid fa-code"
+        [cite_start]keywords: "Linux System Administration, Basic Python Programming, ASE, custom NEB/AutoNEB Transition State search tool. [cite: 34, 37]"
+
+      - [cite_start]name: "Laboratory Skills [cite: 40]"
+        level: "Basic"
+        icon: "fa-solid fa-flask"
+        [cite_start]keywords: "Wet Lab Experience, Organic synthesis, structural characterization (13C NMR). [cite: 40]"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - [cite_start]name: "Spanish [cite: 122]"
+        [cite_start]summary: "Native [cite: 122]"
 
-      - name: English
-        summary: "Fluent"
+      - [cite_start]name: "Valencian/Catalan [cite: 122]"
+        [cite_start]summary: "C1 [cite: 122]"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - [cite_start]name: "English [cite: 122]"
+        [cite_start]summary: "C1 [cite: 122]"
+        
+      - [cite_start]name: "French [cite: 122]"
+        [cite_start]summary: "A2 [cite: 122]"
+
+    # Interests:
+    #   - name: Área de interés
+    #     icon: fa-solid fa-tag
+    #     keywords: "Palabra clave 1, Palabra clave 2"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - [cite_start]name: "CCP5 Summer School 2025 [cite: 116]"
+        [cite_start]date: "2025-07 [cite: 116]"
+        [cite_start]issuer: "Newcastle University [cite: 116]"
+        icon: "fa-solid fa-graduation-cap"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - [cite_start]name: "Data Analysis using AI tools [cite: 115]"
+        [cite_start]date: "2024-12 [cite: 115]"
+        [cite_start]issuer: "Universitat Politècnica de València [cite: 115]"
+        icon: "fa-solid fa-chart-line"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    # Projects:
+    #   - name: Nombre del Proyecto
+    #     summary: Breve descripción de lo que trata el proyecto.
+    #     highlights:
+    #       - Logro o característica 1
+    #       - Logro o característica 2
+    #     start_date: 2023-01-01
+    #     end_date: 2023-12-31
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Profesor o Contacto
+    #     icon: fa-solid fa-envelope
+    #     reference: "Un texto de recomendación breve iría aquí."
