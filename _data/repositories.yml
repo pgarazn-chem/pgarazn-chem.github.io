@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pgarazn-chem
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - pgarazn-chem/pgarazn-chem.github.io
+  - pgarazn-chem/SAM-analyzer
+  # Añade debajo el resto de tus repositorios públicos siguiendo el mismo formato:
+  # - pgarazn-chem/CASTEP_AutoNEB
+  # - pgarazn-chem/HPC-AI
