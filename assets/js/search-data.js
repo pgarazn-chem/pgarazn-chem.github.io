@@ -525,7 +525,7 @@ ninja.data = [{
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=57827672900", "_blank");
         },
       },{
         id: 'social-orcid',
