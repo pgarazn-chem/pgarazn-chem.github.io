@@ -1,10 +1,10 @@
 cv:
   name: "Pablo García Aznar"
-  label: "PhD Student Sustainable Chemistry"
+  label: "PhD in Computational Sustainable Chemistry"
   email: "pgarazn@itq.upv.es"
   location: "ITQ, UPV-CSIC, Valencia, Spain"
   image: "assets/img/prof_pic.jpg"
-  summary: "PhD Student in Sustainable Chemistry specializing in the computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications."
+  summary: "PhD in Sustainable Chemistry specializing in the computational study and design of graphene-based and MXene-based catalysts for chemical, energy, and environmental applications."
 
   social_networks:
     - network: GitHub
@@ -27,7 +27,7 @@ cv:
         area: "Sustainable Chemistry"
         studyType: "PhD"
         start_date: "2022-12"
-        end_date: "Present"
+        end_date: "2026-09"
         score: ""
         courses: ""
         highlights:
@@ -59,7 +59,7 @@ cv:
         position: "PhD Research contract, Theoretical Chemistry Department"
         location: "València, Valencia,<br> Spain"
         start_date: "2022-12"
-        end_date: "2026-08"
+        end_date: "2026-10"
         summary: "Lead computational researcher in co-authored experimental works."
         highlights:
           - "Responsible for original model development, reaction mechanism elucidation, and simulation frameworks."
@@ -116,7 +116,7 @@ cv:
       - name: "IT & Programming"
         level: "Intermediate"
         icon: "fa-solid fa-code"
-        keywords: "Linux System Administration, Basic Python Programming, ASE, custom NEB/AutoNEB Transition State search tool."
+        keywords: "Linux System Administration, Basic Python Programming, ASE, custom NEB/AutoNEB/Dimer Transition State search tool."
 
       - name: "Laboratory Skills"
         level: "Basic"
