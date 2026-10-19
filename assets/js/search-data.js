@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Academic_CV_PGA_06_04_26.pdf", "_blank");
+          window.open("/assets/pdf/CV_Pablo_Garc%C3%ADa_Aznar.pdf", "_blank");
         },
       },{
         id: 'social-email',
