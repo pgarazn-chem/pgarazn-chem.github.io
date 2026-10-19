@@ -412,14 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-winter-2026-2027-joining-ens-de-lyon-as-a-postdoctoral-researcher-so-excited-to-tackle-new-challenges",
-          title: 'Winter 2026/2027: Joining ENS de Lyon as a Postdoctoral Researcher! So excited to...',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-successfully-defended-my-phd-thesis-on-dft-simulations-of-2d-catalysts-at-itq-upv-csic",
           title: 'Successfully defended my PhD thesis on DFT simulations of 2D catalysts at ITQ...',
+          description: "",
+          section: "News",},{id: "news-winter-2026-2027-joining-ens-de-lyon-as-a-postdoctoral-researcher-so-excited-to-tackle-new-challenges",
+          title: 'Winter 2026/2027: Joining ENS de Lyon as a Postdoctoral Researcher! So excited to...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
