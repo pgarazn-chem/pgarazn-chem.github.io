@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD in Computational Chemistry | Incoming Postdoctoral Researcher at ENS de Lyon
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Química Teórica </p>
+    <p>HG-Energy </p>
     <p>Avenida de los Naranjos, s/n </p>
     <p>Valencia, Valencia, Spain, 46022 </p>
 
@@ -26,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a a final-year PhD student in [Instituto de Tecnología Química](https://itq.upv-csic.es/en). I joined the Universitat Politècnica de València in 2022 as a PhD student under the supervision of Germán Sastre in [Hermenegildo García group](https://hg-energy.eu/). My research focuses on the theoretical simulation of MXenes and graphenes as catalysts, specifically aiming to elucidate reaction mechanisms and predict material properties via DFT and machine-learning techniques.
+I recently completed my PhD in Theoretical and Computational Sustainable Chemistry (September 2026) at the [Instituto de Tecnología Química](https://itq.upv-csic.es/en) under the supervision of Germán Sastre within the [Hermenegildo García group](https://hg-energy.eu/). Starting in Winter 2026/2027, I will join the École Normale Supérieure de Lyon (ENS de Lyon) as a Postdoctoral Researcher. My research focuses on the theoretical simulation of MXenes and graphenes as catalysts, specifically aiming to elucidate reaction mechanisms and predict material properties via DFT and machine-learning techniques.
 
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
