@@ -2,19 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Computational Chemistry | Incoming Postdoctoral Researcher at ENS de Lyon
+subtitle: Computational chemist · DFT and data-driven modelling of catalysts · Incoming postdoc at ENS de Lyon
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Química Teórica </p>
-    <p>HG-Energy </p>
-    <p>Avenida de los Naranjos, s/n </p>
-    <p>Valencia, Valencia, Spain, 46022 </p>
+    <p>Theoretical & Computational Chemistry</p>
+    <p>ITQ (UPV-CSIC), Valencia</p>
+    <p>Incoming postdoc at ENS de Lyon</p>
 
-selected_papers: fa # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,12 +26,22 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I recently completed my PhD in Theoretical and Computational Sustainable Chemistry (September 2026) at the [Instituto de Tecnología Química](https://itq.upv-csic.es/en) under the supervision of Germán Sastre within the [Hermenegildo García group](https://hg-energy.eu/). Starting in Winter 2026/2027, I will join the [École Normale Supérieure de Lyon (ENS de Lyon)](https://www.ens-lyon.fr/CHIMIE/recherche/Teams/Chimie_Theorique) as a Postdoctoral Researcher, within the [IsoPROPEL project](https://isopropel.eu/). My research has focused on the theoretical simulation of MXenes and graphenes as catalysts, specifically aiming to elucidate reaction mechanisms and predict material properties via DFT and machine-learning techniques.
 
-[//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a computational chemist working at the intersection of heterogeneous catalysis, 2D materials, and sustainable chemistry. My research combines density functional theory (DFT), atomistic simulations, and machine learning to understand reaction mechanisms, identify active sites, and predict the properties of catalysts.
 
+I recently completed my PhD in Theoretical and Computational Sustainable Chemistry at the [Instituto de Tecnología Química](https://itq.upv-csic.es/en) (UPV-CSIC), supervised by Germán Sastre in the [Hermenegildo García group](https://hg-energy.eu/). There I focused on graphene- and MXene-based catalysts, combining periodic DFT, transition-state analysis, and machine-learning potentials with experimental work.
 
-[//]: # Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Starting in Winter 2026/2027, I will join the [École Normale Supérieure de Lyon](https://www.ens-lyon.fr/CHIMIE/recherche/Teams/Chimie_Theorique) as a postdoctoral researcher within the [IsoPROPEL project](https://isopropel.eu/). My work there moves away from 2D carbocatalysts towards metal-based catalysts — not necessarily two-dimensional — and adds grand canonical DFT (GC-DFT) to my toolkit, so that surfaces can be described under realistic operating conditions.
 
+<p class="about-actions">
+  <a class="btn btn-theme" href="{{ '/assets/pdf/CV_Pablo_Garcia_Aznar.pdf' | relative_url }}">Download CV</a>
+  <a class="btn btn-theme-outline" href="mailto:pgarazn@itq.upv.es">Email</a>
+  <a class="btn btn-theme-outline" href="https://orcid.org/0000-0003-0586-0037" target="_blank" rel="noopener">ORCID</a>
+</p>
 
-[//]: # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research interests
+
+- **Heterogeneous catalysis:** linking structure, electronic properties, and reactivity to explain activity and selectivity.
+- **2D catalysts (PhD work):** graphene- and MXene-based materials, from reaction mechanisms to active-site identification.
+- **Methods:** DFT, periodic atomistic simulations, transition-state analysis, and machine learning for property prediction.
+- **Incoming work:** grand canonical DFT (GC-DFT) applied to metal-based catalysts under working conditions.

@@ -5,6 +5,10 @@ description: Expert customization assistant for the al-folio Jekyll academic web
 
 You are an expert customization assistant for the al-folio Jekyll academic website template.
 
+## Project Premise
+
+**This is Pablo García Aznar's personal academic site, not the upstream al-folio demo.** Pablo is a computational chemist finishing a PhD at ITQ (UPV-CSIC) and starting a postdoc at ENS de Lyon. The goal is a professional, accessible upgrade: a clear research narrative around 2D catalysts, DFT, and machine learning; easy access to publications, CV, email, and ORCID; and a polished, readable academic design. Prefer targeted, reversible changes. Preserve real personal content and hide/remove demo content rather than inventing facts. The public navigation should remain focused on about, publications, research, CV, and contact.
+
 ## Your Role
 
 - You specialize in helping users customize their al-folio academic website
@@ -130,6 +134,10 @@ When helping users, reference these instructions to ensure recommendations align
 docker compose pull
 docker compose up
 # Site available at http://localhost:8080
+
+# Python utilities: keep dependencies in the project-local uv environment
+uv venv --python 3.13 .venv
+uv pip install --python .venv/bin/python -r requirements.txt
 
 # Legacy method (requires Ruby, Bundler, Python)
 bundle install

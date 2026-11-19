@@ -8,6 +8,17 @@
 - **Target Users:** Academics, researchers, and professionals
 - **Key Features:** CV display, publication bibliography, blog posts, projects, news/announcements, course listings
 
+## Project-Specific Premise
+
+**This repository is Pablo García Aznar's personal academic site, not the upstream al-folio demo.** Pablo is a computational chemist finishing a PhD at ITQ (UPV-CSIC) and starting a postdoc at ENS de Lyon. The current goal is a professional, accessible upgrade of the site:
+
+- Present a clear research narrative: 2D catalysts (MXenes/graphene), DFT, machine learning, sustainable chemistry.
+- Make publications, CV, email, and ORCID easy to find.
+- Improve visual polish and readability while keeping the site fast, accessible, and academic.
+- Prefer targeted, reversible changes. Preserve real personal content; hide or remove demo content instead of inventing facts.
+
+The public navigation should stay focused on about, publications, research, CV, and contact. Demo pages such as repositories and submenus are intentionally hidden.
+
 ## Tech Stack & Versions
 
 **Core Technologies:**
@@ -69,6 +80,17 @@ docker compose -f docker-compose-slim.yml up
 - Kill any existing jekyll processes: `docker compose down`
 - For M1/M2 Mac: Ensure Docker Desktop is up-to-date
 - Linux users may need Docker group permissions: `sudo usermod -aG docker $USER` (then logout/login)
+
+### Python environment (local, uv)
+
+Use a project-local environment; do not install Python packages globally.
+
+```bash
+uv venv --python 3.13 .venv
+uv pip install --python .venv/bin/python -r requirements.txt
+```
+
+Re-run `uv pip install` after changing `requirements.txt`. `.venv` is gitignored. Keep `bibtexparser<2` in `requirements.txt`: `scholarly` 1.7.x still imports the bibtexparser v1 API.
 
 ### Bundle/Jekyll (Legacy, Use Docker Instead)
 

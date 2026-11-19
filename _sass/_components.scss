@@ -259,3 +259,109 @@ ul.task-list input[type="checkbox"] {
 .d2h-diff-table {
   position: relative;
 }
+
+// About/contact actions
+
+.about-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.4rem 0 1.8rem;
+}
+
+.about-actions .btn {
+  display: inline-block;
+  border-radius: 999px;
+  padding: 0.45rem 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease,
+    color 0.15s ease;
+
+  &:hover,
+  &:focus-visible {
+    text-decoration: none;
+  }
+}
+
+.btn-theme {
+  color: #fff;
+  background-color: var(--global-theme-color);
+  border: 1px solid var(--global-theme-color);
+
+  &:hover,
+  &:focus-visible {
+    color: #fff;
+    background-color: var(--global-hover-color);
+    border-color: var(--global-hover-color);
+  }
+}
+
+.btn-theme-outline {
+  color: var(--global-theme-color);
+  background-color: transparent;
+  border: 1px solid var(--global-theme-color);
+
+  &:hover,
+  &:focus-visible {
+    color: var(--global-hover-text-color);
+    background-color: var(--global-hover-color);
+    border-color: var(--global-hover-color);
+  }
+}
+
+// Research cards
+
+.research-card {
+  border: 1px solid var(--global-divider-color);
+  background-color: var(--global-card-bg-color);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.08);
+  }
+}
+
+html[data-theme="dark"] .research-card:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
+}
+
+// Keep light text readable when the dark theme uses a light accent color.
+
+html[data-theme="dark"] {
+  .btn-theme,
+  .btn-theme:hover,
+  .btn-theme:focus-visible,
+  .btn-theme-outline:hover,
+  .btn-theme-outline:focus-visible,
+  .skip-link,
+  .skip-link:focus {
+    color: #1c1c1d;
+  }
+}
+
+// Keyboard navigation
+
+.skip-link {
+  position: absolute;
+  top: -3rem;
+  left: 1rem;
+  z-index: 1000;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  background: var(--global-theme-color);
+  border-radius: 0 0 0.35rem 0.35rem;
+  transition: top 0.15s ease;
+
+  &:focus {
+    top: 0;
+    color: #fff;
+    text-decoration: none;
+  }
+}
