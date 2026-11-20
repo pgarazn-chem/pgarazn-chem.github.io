@@ -2,4 +2,3 @@ nbconvert
 pyyaml
 rendercv[full]
 scholarly
-bibtexparser<2  # scholarly 1.7.x still imports the bibtexparser v1 API
