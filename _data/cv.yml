@@ -123,11 +123,10 @@ cv:
         icon: "fa-solid fa-flask"
         keywords: "Wet Lab Experience, Organic synthesis, structural characterization (1H and 13C NMR)."
 
-      - name: "Generative AI & LLMs"
+      - name: "AI-Assisted Scientific Computing"
         level: "Basic"
         icon: "fa-solid fa-robot"
-        keywords: "Local LLM inference deployment on HPC and PC systems, autonomous Python code generation (Aider)."
-  
+        keywords: "Atomic simulation workflow development using agentic coding harnesses (OpenCode, Antigravity), Python pipeline automation, and local LLM deployment on HPC/PC systems."
 
     Languages:
       - name: "Spanish"
